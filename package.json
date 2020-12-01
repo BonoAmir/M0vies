@@ -1,0 +1,19 @@
+{
+  "name": "movies",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BonoAmir/M0vies.git"
+  },
+  "author": "Abanoub",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BonoAmir/M0vies/issues"
+  },
+  "homepage": "https://github.com/BonoAmir/M0vies#readme"
+}
